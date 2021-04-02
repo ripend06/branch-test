@@ -3,7 +3,7 @@ a
 
 =======
 b
-c
+c-2
 >>>>>>> new-branch
 
 aa
